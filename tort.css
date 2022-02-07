@@ -99,3 +99,29 @@ footer {
 .oy1 {
 	color: darkviolet;
 }
+.yu {
+	position: absolute;
+	top: 5px;
+	left: 0px;
+	margin-left: 50px;
+	margin-top: 30px;
+	text-decoration: none;
+	border: 2px solid mediumpurple;
+	border-radius: 50px;
+	padding: 5px 10px 5px 10px;
+	background-color: paleturquoise;
+	font-family: lucida console;
+}
+.magenta {
+	position: absolute;
+	top: 5px;
+	left: 0px;
+	margin-left: 1070px;
+	margin-top: 30px;
+	text-decoration: none;
+	border: 2px solid mediumpurple;
+	border-radius: 50px;
+	padding: 5px 10px 5px 10px;
+	background-color: paleturquoise;
+	font-family: lucida console;
+}
