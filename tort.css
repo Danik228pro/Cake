@@ -93,6 +93,9 @@ footer {
 	padding: 10px;
 	border-radius: 50px;
 }
-footer p {
+.oy {
 	color: lightpink;
+}
+.oy1 {
+	color: plum
 }
